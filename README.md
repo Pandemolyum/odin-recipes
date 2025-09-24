@@ -1,2 +1,4 @@
 # odin-recipes
-A project for my own learning made as part of The Odin Project
+A learning project made as part of The Odin Project.
+
+Its purpose is to allow me to practice with HTML, CSS and Git.
