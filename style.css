@@ -1,0 +1,59 @@
+html {
+  box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+* {
+    font-family: Garamond, Verdana, Arial;
+}
+
+body {
+    background-color: bisque;
+}
+
+h1,
+h2 {
+    color: darkred;
+}
+
+h1 {
+    text-align: center;
+    border-bottom: 3px;
+}
+
+p {
+    text-align: justify;
+}
+
+li {
+    padding: 3px;
+    color: black
+}
+
+img {
+    width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    border: 1px solid #8b0000;
+}
+
+a {
+    color: darkred;
+    font-weight: bold;
+}
+
+.content,
+.section {
+    padding: 8px 32px;
+}
+
+.content {
+    background-color: burlywood;
+    margin: 0px 384px 384px;
+}
